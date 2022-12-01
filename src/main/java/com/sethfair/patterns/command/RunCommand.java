@@ -1,7 +1,4 @@
-package com.sethfair.command;
-
-import com.sethfair.command.Character;
-import com.sethfair.command.Command;
+package com.sethfair.patterns.command;
 
 public class RunCommand implements Command {
     private final Character character;

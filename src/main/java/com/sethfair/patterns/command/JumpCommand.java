@@ -1,4 +1,4 @@
-package com.sethfair.command;
+package com.sethfair.patterns.command;
 
 public class JumpCommand implements Command{
     private final Character character;

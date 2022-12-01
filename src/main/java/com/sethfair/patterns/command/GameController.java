@@ -1,4 +1,4 @@
-package com.sethfair.command;
+package com.sethfair.patterns.command;
 
 import java.util.HashMap;
 

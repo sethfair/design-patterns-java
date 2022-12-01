@@ -1,7 +1,7 @@
 package com.sethfair;
 
-import com.sethfair.command.Game;
-import com.sethfair.command.GameController;
+import com.sethfair.patterns.command.Game;
+import com.sethfair.patterns.command.GameController;
 
 class Main {
     public static void main(String[]args){
